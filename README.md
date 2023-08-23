@@ -1,4 +1,8 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+```
+JENISHA.J
+212222230056
+```
+# EXPERIMENT:02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -96,13 +100,19 @@ static void MX_GPIO_Init(void)
 
 }
 ```
+
+<br>
+
 ## Output  :
- #### LED OFF
- ![WhatsApp Image 2023-08-23 at 10 59 44](https://github.com/Jenishajustin/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119405070/0ee47672-0611-4d0b-9720-d2412e30b774)
+ ### SWITCH OFF
+ <img src="https://github.com/Jenishajustin/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119405070/f97ae332-da02-4bef-b7c2-9b2035585a51" width=450 height=475>
+ 
+ <br>
+ 
+### SWITCH ON 
+ <img src="https://github.com/Jenishajustin/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119405070/9d7ee057-bf0e-4517-8376-6e3914c69eac" width=450 height=475>
 
- #### LED ON
- ![WhatsApp Image 2023-08-23 at 10 59 46](https://github.com/Jenishajustin/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119405070/787434a5-40d4-432f-9898-0f4b52ce8f78)
-
+<br>
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
